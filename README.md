@@ -37,5 +37,5 @@ tqdm
 - Requires Chrome browser to be installed
 
 ## Author
-[Your Name]
-[Your Contact Info/Portfolio]
+**Mr. Anas**
+- GitHub: [@Mr-Anas608](https://github.com/Mr-Anas608)
